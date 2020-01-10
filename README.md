@@ -1,5 +1,5 @@
 # WeatherApp
-A tkinter App to get weather condition of any location in the world
+A Python tkinter Desktop App to get weather condition of any location in around world
 
 # File Guide
 Readme.md
