@@ -4,10 +4,10 @@ A Python tkinter Desktop App to get weather condition of any location around wor
 #code snippet Image
 ![](weather.png)
 # File Guide
-Readme.md
+Readme.md: file for reading about this project
 
-weatherapp.py file: Python script for the app
+weatherapp.py file: Python script for the app.
 
 # How it works 
 Just fill the city name of where you want to check weather condition and click the button and
-boom you are done! the program reveals the weather condition, temprature and description 
+boom you are done! the program reveals the weather condition, temprature and description. 
